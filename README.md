@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Pranav-Sharma717">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines= Building+intelligent+systems+that+solve+real+problems; Training+custom+deep+learning+models+(YOLO%2C+CNNs); Neural+networks+from+scratch+%E2%9C%A8; Deploying+AI-powered+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+solve+real+problems;Training+custom+deep+learning+models+(YOLO%2C+CNNs);Neural+networks+from+scratch+%E2%9C%A8;Deploying+AI-powered+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,15 +17,22 @@
 - 🚀 &nbsp;I love deploying **intuitive web apps** that make AI capabilities accessible and interactive.
 - 🌱 &nbsp;Currently deepening my expertise in **RAG architectures, LLMs, and MLOps**.
 - 💬 &nbsp;Ask me about **PyTorch, TensorFlow, OpenCV, or object detection pipelines**.
-- 📫 &nbsp;Contact **gvpranav06@gmail.com**
+- 📫 &nbsp;Reach me at **gvpranav06@gmail.com**
+
+<div align="center">
+  <a href="https://g-v-pranav-sharma-portfolio-website.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-4A00E0?style=for-the-badge&labelColor=8E2DE2" alt="portfolio"/>
+  </a>
+</div>
 
 <!-- ======================= SOCIALS ======================= -->
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://g-v-pranav-sharma-portfolio-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-8E2DE2?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/Pranav-Sharma717" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:milindhmbhandary@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:gvpranav06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 > 💡 **Note:** Update the LinkedIn badge above with your actual profile URL.
@@ -138,16 +145,16 @@ A web project focused on **smart upcycling** — turning everyday waste into reu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranav-Sharma717&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8E2DE2&icon_color=8E2DE2" alt="stats"/>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Sharma717&hide_border=true&theme=tokyonight&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak"/>
+  <img width="49%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Pranav-Sharma717&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8E2DE2&icon_color=8E2DE2&cache_seconds=86400" alt="stats"/>
+  <img width="40%" src="https://streak-stats.demolab.com?user=Pranav-Sharma717&hide_border=true&theme=tokyonight&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Sharma717&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=8E2DE2" alt="top langs"/>
+  <img width="40%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Pranav-Sharma717&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=8E2DE2&cache_seconds=86400" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-Sharma717&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Sharma717&bg_color=1a1b27&color=8e2de2&line=8e2de2&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 <!-- Snake animation: requires the Platane/snk GitHub Action in your profile repo (see setup notes). -->
