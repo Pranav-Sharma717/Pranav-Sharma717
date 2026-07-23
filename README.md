@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 <a href="https://github.com/Pranav-Sharma717">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=G%20V%20Pranav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20•%20Machine%20Learning%20•%20Computer%20Vision%20Developer&descAlignY=55&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=G%20V%20Pranav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20•%20Machine%20Learning%20•%20Fullstack%20Developer&descAlignY=55&descSize=18" alt="header"/>
 </a>
 
 <p align="center">
