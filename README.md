@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Pranav-Sharma717">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+solve+real+problems;Training+custom+deep+learning+models+(YOLO%2C+CNNs);Neural+networks+from+scratch+%E2%9C%A8;Deploying+AI-powered+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines= Building+intelligent+systems+that+solve+real+problems; Training+custom+deep+learning+models+(YOLO%2C+CNNs); Neural+networks+from+scratch+%E2%9C%A8; Deploying+AI-powered+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 - 🚀 &nbsp;I love deploying **intuitive web apps** that make AI capabilities accessible and interactive.
 - 🌱 &nbsp;Currently deepening my expertise in **RAG architectures, LLMs, and MLOps**.
 - 💬 &nbsp;Ask me about **PyTorch, TensorFlow, OpenCV, or object detection pipelines**.
-- 📫 &nbsp;Reach me at **milindhmbhandary@gmail.com**
+- 📫 &nbsp;Contact **gvpranav06@gmail.com**
 
 <!-- ======================= SOCIALS ======================= -->
 ## 🌐 Connect With Me
