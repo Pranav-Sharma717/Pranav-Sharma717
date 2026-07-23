@@ -1,65 +1,165 @@
-# 👋 Hi there, I'm G V Pranav Sharma! (Pranav-Sharma717)
+<!-- ======================= HEADER ======================= -->
+<a href="https://github.com/Pranav-Sharma717">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=G%20V%20Pranav%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20•%20Machine%20Learning%20•%20Computer%20Vision%20Developer&descAlignY=55&descSize=18" alt="header"/>
+</a>
 
-I am an AI, Machine Learning, and Computer Vision developer dedicated to building intelligent systems that solve real-world problems. I specialize in training custom deep learning models (YOLO, CNNs), implementing neural networks from scratch, and deploying intuitive web applications to showcase AI capabilities.
+<p align="center">
+  <a href="https://github.com/Pranav-Sharma717">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+solve+real+problems;Training+custom+deep+learning+models+(YOLO%2C+CNNs);Neural+networks+from+scratch+%E2%9C%A8;Deploying+AI-powered+web+applications" alt="Typing SVG" />
+  </a>
+</p>
 
----
+<!-- ======================= ABOUT ME ======================= -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-### 🛠️ My Tech Stack
+- 🤖 &nbsp;I'm an **AI, Machine Learning & Computer Vision** developer focused on building intelligent systems that solve real-world problems.
+- 🧠 &nbsp;I specialize in training **custom deep learning models** (YOLO, CNNs) and implementing **neural networks from scratch**.
+- 🚀 &nbsp;I love deploying **intuitive web apps** that make AI capabilities accessible and interactive.
+- 🌱 &nbsp;Currently deepening my expertise in **RAG architectures, LLMs, and MLOps**.
+- 💬 &nbsp;Ask me about **PyTorch, TensorFlow, OpenCV, or object detection pipelines**.
+- 📫 &nbsp;Reach me at **milindhmbhandary@gmail.com**
 
-| Category | Tech & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Machine Learning & CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Web & Frameworks** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-orange?style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Databases & DevOps** | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
-
----
-
-### 🚀 Featured Projects
-
-#### 1. [Pothole Detection & Severity Estimation](https://github.com/Pranav-Sharma717/Pothole_Detection)
-*An intelligent road hazard monitoring system utilizing YOLOv12 object detection, automated EXIF geotag extraction, and a web-based dispatch console.*
-*   **Technologies:** YOLOv12, Roboflow, Gradio, Leaflet.js, HTML5/CSS3/JS, SQLite
-*   **Key Features:** Automated image/video inference, dynamic GPS metadata extraction, interactive Leaflet dashboard map, and ticket closure flow for municipal departments.
-*   **Demo:** [Try the Live Web Demo](https://pranav-sharma717.github.io/Pothole_Detection/) (Hosted on GitHub Pages / Vercel)
-
-#### 2. [E-commerce Recommendation System](https://github.com/Pranav-Sharma717/E-commerce_Recommendation_System)
-*A high-fidelity storefront utilizing client-side machine learning logic to compute real-time content-based product recommendations.*
-*   **Technologies:** JavaScript (TF-IDF vectorizer + Cosine Similarity simulator), TailwindCSS, HTML5, Flask
-*   **Key Features:** Dynamic storefront, search query matching, and real-time computation of recommended similar products directly in the browser.
-*   **Demo:** [Try the Live Web Demo](https://pranav-sharma717.github.io/E-commerce_Recommendation_System/) (Hosted on GitHub Pages / Vercel)
-
-#### 3. [FinSage](https://github.com/Pranav-Sharma717/finsage)
-*A smart financial literacy and QA platform designed to retrieve financial filing parameters using AI retrieval models.*
-*   **Technologies:** Python, RAG architectures, LlamaIndex / LangChain, Streamlit
-
-#### 4. [Neural Network from Scratch](https://github.com/Pranav-Sharma717/Neural-Net-implementation)
-*A pure NumPy implementation of neural networks, built from the ground up to demonstrate forward propagation, backward propagation, and loss optimizations.*
-*   **Technologies:** Python, NumPy, Matplotlib
-
-#### 5. [Traffic Sign Classifier](https://github.com/Pranav-Sharma717/Traffic-sign-classifier)
-*A deep CNN-based classification pipeline designed to recognize and categorize various regulatory and warning traffic signs.*
-*   **Technologies:** TensorFlow/Keras, OpenCV, Matplotlib
-
----
-
-### 📊 GitHub Stats
+<!-- ======================= SOCIALS ======================= -->
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Sharma717&show_icons=true&theme=radical&count_private=true" alt="Pranav-Sharma717 GitHub Stats" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Sharma717&layout=compact&theme=radical&langs_count=6" alt="Pranav-Sharma717 Top Languages" height="190"/>
+  <a href="https://github.com/Pranav-Sharma717" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:milindhmbhandary@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
----
+> 💡 **Note:** Update the LinkedIn badge above with your actual profile URL.
 
-### 🤝 Connect with Me
+<!-- ======================= TECH STACK ======================= -->
+## 🛠️ Tech Stack
 
-*   **GitHub:** [@Pranav-Sharma717](https://github.com/Pranav-Sharma717)
-*   **LinkedIn:** [Your LinkedIn Profile Link]
+#### &nbsp;💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="languages"/>
+</p>
 
-*Feel free to explore my repositories, open an issue, or reach out for collaborations!*
+#### &nbsp;🧠 Machine Learning & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="ml"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+</p>
 
----
+#### &nbsp;🌐 Web & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,tailwind" alt="web"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+#### &nbsp;🗄️ Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,docker,vercel" alt="devops"/>
+</p>
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕳️ [Pothole Detection & Severity Estimation](https://github.com/Pranav-Sharma717/Pothole_Detection)
+An intelligent road-hazard monitoring system using **YOLOv12** object detection, automated **EXIF geotag** extraction, and a web-based dispatch console.
+
+**🔧 Tech:** YOLOv12 · Roboflow · Gradio · Leaflet.js · SQLite  
+**✨ Highlights:** Image/video inference, GPS metadata extraction, interactive Leaflet map, municipal ticket-closure flow.
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-4A00E0?style=flat-square)](https://pranav-sharma717.github.io/Pothole_Detection/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [E-commerce Recommendation System](https://github.com/Pranav-Sharma717/E-commerce_Recommendation_System)
+A high-fidelity storefront using **client-side ML** to compute real-time, content-based product recommendations.
+
+**🔧 Tech:** JavaScript (TF-IDF + Cosine Similarity) · TailwindCSS · Flask  
+**✨ Highlights:** Dynamic storefront, search-query matching, in-browser recommendation computation.
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-4A00E0?style=flat-square)](https://pranav-sharma717.github.io/E-commerce_Recommendation_System/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [FinSage](https://github.com/Pranav-Sharma717/finsage)
+A smart financial-literacy & QA platform that retrieves financial-filing parameters using **AI retrieval (RAG)** models.
+
+**🔧 Tech:** Python · RAG · LlamaIndex / LangChain · Streamlit  
+**✨ Highlights:** Document retrieval over filings, natural-language financial Q&A.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [Neural Network from Scratch](https://github.com/Pranav-Sharma717/Neural-Net-implementation)
+A pure **NumPy** implementation of neural networks built from the ground up.
+
+**🔧 Tech:** Python · NumPy · Matplotlib  
+**✨ Highlights:** Forward & backward propagation, loss optimization — no frameworks.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 [Traffic Sign Classifier](https://github.com/Pranav-Sharma717/Traffic-sign-classifier)
+A deep **CNN** classification pipeline that recognizes regulatory and warning traffic signs.
+
+**🔧 Tech:** TensorFlow/Keras · OpenCV · Matplotlib  
+**✨ Highlights:** Multi-class sign recognition, image preprocessing pipeline.
+
+</td>
+<td width="50%" valign="top">
+
+### ♻️ [SmartUpCycle](https://github.com/Pranav-Sharma717/smartUpCycle1)
+A web project focused on **smart upcycling** — turning everyday waste into reusable value.
+
+**🔧 Tech:** HTML · CSS · JavaScript  
+**✨ Highlights:** Interactive front-end experience.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Pranav-Sharma717?tab=repositories">
+    <img src="https://img.shields.io/badge/📚_See_All_Repositories-8E2DE2?style=for-the-badge" alt="all repos"/>
+  </a>
+</div>
+
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranav-Sharma717.Pranav-Sharma717" alt="Profile Visitor Counter"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranav-Sharma717&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=8E2DE2&icon_color=8E2DE2" alt="stats"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Sharma717&hide_border=true&theme=tokyonight&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak"/>
 </p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Sharma717&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=8E2DE2" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-Sharma717&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+</p>
+
+<!-- Snake animation: requires the Platane/snk GitHub Action in your profile repo (see setup notes). -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranav-Sharma717/Pranav-Sharma717/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pranav-Sharma717.Pranav-Sharma717&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="visitors"/>
+</p>
+
+<p align="center"><i>💜 Feel free to explore my repositories, open an issue, or reach out for collaborations!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" alt="footer"/>
