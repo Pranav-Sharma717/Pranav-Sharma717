@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Pranav-Sharma717">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+solve+real+problems;Training+custom+deep+learning+models+(YOLO%2C+CNNs);Neural+networks+from+scratch+%E2%9C%A8;Deploying+AI-powered+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8E2DE2&center=true&vCenter=true&width=800&height=45&lines=Building+intelligent+systems+that+solve+real+problems;Training+custom+deep+learning+models+(YOLO%2C+CNNs);Neural+networks+from+scratch+%E2%9C%A8;Deploying+AI-powered+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
